@@ -1,2 +1,4 @@
-name: cpf1
-branch: master
+{
+  name: cpf1
+  branch: master
+}
